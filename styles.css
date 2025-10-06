@@ -1,8 +1,8 @@
 #btn {
-  background-color: #000;
-  color: #fff;
-  border-radius: 5px;
-  border: none;
+  background-color: #000 !important;
+  color: #fff !important;
+  border-radius: 5px !important;
+  border: none !important;
   padding: 10px 30px;
   font-size: 16px;
   cursor: pointer;
@@ -10,7 +10,7 @@
 }
 
 #btn:hover {
-  background-color: yellow;
-  color: #000;
-  border-radius: 30px;
+  background-color: yellow !important;
+  color: #000 !important;
+  border-radius: 30px !important;
 }
